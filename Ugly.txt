@@ -1,0 +1,5 @@
+ID		First Name    Last Name	  Email
+2024EB1100200		SAMRITI    GUPTA	  2024eb1100200@bitspilani-digital.edu.in
+2024EB1100250		G    SIDHARTH	  2024eb1100250@bitspilani-digital.edu.in
+2024EB1100300		SHIVAM    PATEL	  2024eb1100300@bitspilani-digital.edu.in
+2024EB1100320		RADHAKRISHNAN    IYER	  2024eb1100320@bitspilani-digital.edu.in
